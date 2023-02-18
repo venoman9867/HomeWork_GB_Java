@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-16T18:17:28.501631Z</date>
+  <millis>1676571448501</millis>
+  <nanos>631000</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>WARNING</level>
+  <class>Main</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[46, 64, 82, 2, 16, 7, 16, 82, 74, 48, 85]</message>
+</record>
+<record>
+  <date>2023-02-16T18:17:28.592873Z</date>
+  <millis>1676571448592</millis>
+  <nanos>873000</nanos>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>WARNING</level>
+  <class>Main</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[46, 64, 2, 16, 7, 16, 82, 74, 48, 82, 85]</message>
+</record>
+<record>
+  <date>2023-02-16T18:17:28.593491Z</date>
+  <millis>1676571448593</millis>
+  <nanos>491000</nanos>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>WARNING</level>
+  <class>Main</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[46, 2, 16, 7, 16, 64, 74, 48, 82, 82, 85]</message>
+</record>
+<record>
+  <date>2023-02-16T18:17:28.593993Z</date>
+  <millis>1676571448593</millis>
+  <nanos>993000</nanos>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>WARNING</level>
+  <class>Main</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[2, 16, 7, 16, 46, 64, 48, 74, 82, 82, 85]</message>
+</record>
+<record>
+  <date>2023-02-16T18:17:28.594579Z</date>
+  <millis>1676571448594</millis>
+  <nanos>579000</nanos>
+  <sequence>4</sequence>
+  <logger>Main</logger>
+  <level>WARNING</level>
+  <class>Main</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[2, 7, 16, 16, 46, 48, 64, 74, 82, 82, 85]</message>
+</record>
+<record>
+  <date>2023-02-16T18:17:28.595118Z</date>
+  <millis>1676571448595</millis>
+  <nanos>118000</nanos>
+  <sequence>5</sequence>
+  <logger>Main</logger>
+  <level>WARNING</level>
+  <class>Main</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[2, 7, 16, 16, 46, 48, 64, 74, 82, 82, 85]</message>
+</record>
+<record>
+  <date>2023-02-16T18:17:28.595630Z</date>
+  <millis>1676571448595</millis>
+  <nanos>630000</nanos>
+  <sequence>6</sequence>
+  <logger>Main</logger>
+  <level>WARNING</level>
+  <class>Main</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[2, 7, 16, 16, 46, 48, 64, 74, 82, 82, 85]</message>
+</record>
+<record>
+  <date>2023-02-16T18:17:28.596236Z</date>
+  <millis>1676571448596</millis>
+  <nanos>236000</nanos>
+  <sequence>7</sequence>
+  <logger>Main</logger>
+  <level>WARNING</level>
+  <class>Main</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[2, 7, 16, 16, 46, 48, 64, 74, 82, 82, 85]</message>
+</record>
+<record>
+  <date>2023-02-16T18:17:28.596805Z</date>
+  <millis>1676571448596</millis>
+  <nanos>805000</nanos>
+  <sequence>8</sequence>
+  <logger>Main</logger>
+  <level>WARNING</level>
+  <class>Main</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[2, 7, 16, 16, 46, 48, 64, 74, 82, 82, 85]</message>
+</record>
+<record>
+  <date>2023-02-16T18:17:28.597322Z</date>
+  <millis>1676571448597</millis>
+  <nanos>322000</nanos>
+  <sequence>9</sequence>
+  <logger>Main</logger>
+  <level>WARNING</level>
+  <class>Main</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[2, 7, 16, 16, 46, 48, 64, 74, 82, 82, 85]</message>
+</record>
+</log>
