@@ -9,6 +9,6 @@ public class StringBuilderSQL {
     public static String makeString(String json) {
         StringBuilder stringBuilder = new StringBuilder("select * from students where ");
         stringBuilder.append(json);
-        return stringBuilder.toString().replaceAll("\"+[A-Za-z]+\":\"null\"" ,"");//Костыль XD
+        return stringBuilder.toString().replaceAll("[-,\s]?\s?\"[A-Za-z]+\":\"null\"[-,\s]?\s?" ,"");
     }
 }
