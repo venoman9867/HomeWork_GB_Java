@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48b887ba-a46d-4391-b677-6199331802df" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/homework_4/java/PyramidSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_5/java/GenerateTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_5/java/MainForWave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_5/java/MapGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_5/java/MyLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_5/java/PrintPretty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_5/java/PrintTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_5/java/SearchWave.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_4/java/PyramidSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_4/java/PyramidSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,26 +39,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/homework_5/java" />
       <recent name="$PROJECT_DIR$/src/homework_2/task_2/java" />
       <recent name="$PROJECT_DIR$/src/homework_2/task_2" />
       <recent name="$PROJECT_DIR$/src/homework_2/task_2/Main" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PyramidSort">
+  <component name="RunManager" selected="Application.MainForWave">
     <configuration name="Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calc" />
       <module name="HomeWork_GB_Java" />
@@ -59,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JsonStringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JsonStringBuilder" />
+    <configuration name="MainForWave" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainForWave" />
       <module name="HomeWork_GB_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,13 +96,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.MainForWave" />
+      <item itemvalue="Application.Calc" />
+      <item itemvalue="Application.MergeSort" />
+      <item itemvalue="Application.PyramidSort" />
+      <item itemvalue="Application.StringBuilderSQL" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainForWave" />
         <item itemvalue="Application.PyramidSort" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.StringBuilderSQL" />
         <item itemvalue="Application.Calc" />
-        <item itemvalue="Application.JsonStringBuilder" />
       </list>
     </recent_temporary>
   </component>
@@ -117,7 +133,22 @@
       <workItem from="1676898507887" duration="250000" />
       <workItem from="1677158220989" duration="379000" />
       <workItem from="1677243507159" duration="2528000" />
-      <workItem from="1677359293442" duration="319000" />
+      <workItem from="1677359293442" duration="679000" />
+      <workItem from="1677441176027" duration="230000" />
+      <workItem from="1677599409859" duration="838000" />
+      <workItem from="1677602151505" duration="240000" />
+      <workItem from="1677614402230" duration="249000" />
+      <workItem from="1677680308209" duration="492000" />
+      <workItem from="1677753356511" duration="1515000" />
+      <workItem from="1677847357547" duration="463000" />
+      <workItem from="1677856216374" duration="1465000" />
+      <workItem from="1677859291299" duration="611000" />
+      <workItem from="1677860650620" duration="31000" />
+      <workItem from="1677864818125" duration="336000" />
+      <workItem from="1677866446291" duration="7000" />
+      <workItem from="1677866559133" duration="228000" />
+      <workItem from="1677866834287" duration="237000" />
+      <workItem from="1677867080427" duration="523000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1676717886499</created>
@@ -147,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677247394274</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit">
+      <created>1677359905534</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677359905534</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,5 +205,45 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/homework_4/java/PyramidSort.java</url>
+          <line>4</line>
+          <properties class="PyramidSort" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/homework_4/java/PyramidSort.java</url>
+          <line>9</line>
+          <properties class="PyramidSort" method="sort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/homework_4/java/PyramidSort.java</url>
+          <line>31</line>
+          <properties class="PyramidSort" method="heapify">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HomeWork_GB_Java$PyramidSort.ic" NAME="PyramidSort Coverage Results" MODIFIED="1677847580473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

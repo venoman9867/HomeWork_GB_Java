@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class PyramidSort
 {
     public static void main(String[] args){
-        int[] array = {30,100,23,1,7,4,-3,50,1,23,0};
+        int[] array = {4,10,10,5,3,1};
         sort(array);
         Arrays.stream(array).forEach(x->System.out.print(x+" "));
     }
